@@ -12,14 +12,14 @@ Ce projet est une solution d'entreprise (B2B) clé en main conçue pour automati
 ### Application Mobile Multi-Rôles (Salariés, RH, Admin, Staff Travel)
 L'application mobile native s'adapte dynamiquement selon le profil de l'utilisateur connecté pour offrir les fonctionnalités adaptées :
 
-<img width="1080" height="2400" alt="Screenshot_20260605_125150_Gallery" src="https://github.com/user-attachments/assets/4cbdf505-6dd4-4c71-a7bd-e7fe1d946842" />
-<img width="1080" height="2400" alt="Screenshot_20260605_125124_Gallery" src="https://github.com/user-attachments/assets/fd7241f3-2d66-4274-a1ca-ac34294d5f40" />
-<img width="1080" height="2400" alt="Screenshot_20260605_125101_Gallery" src="https://github.com/user-attachments/assets/a87b70bb-0720-41b8-b6d8-d2c0ccf240fd" />
-<img width="1080" height="2400" alt="Screenshot_20260605_125034_Gallery" src="https://github.com/user-attachments/assets/506d549e-382e-42ee-9b08-0d88ba52a747" />
-<img width="1080" height="2400" alt="Screenshot_20260605_125005_Gallery" src="https://github.com/user-attachments/assets/7c232ea7-1abf-4f20-8f98-c68bfa3f4fcc" />
-<img width="1080" height="2400" alt="Screenshot_20260605_124933_Gallery" src="https://github.com/user-attachments/assets/a9b638e4-667c-4952-ab89-49e1af5f0618" />
-<img width="1080" height="2400" alt="Screenshot_20260605_124913_Gallery" src="https://github.com/user-attachments/assets/293a7a81-a02c-4fab-b355-4d766daceb6d" />
-<img width="1080" height="2400" alt="Screenshot_20260605_125224_Gallery" src="https://github.com/user-attachments/assets/0bacdafa-0edb-4368-80a0-9385f476f802" />
+<img width="300" height="300" alt="Screenshot_20260605_125150_Gallery" src="https://github.com/user-attachments/assets/4cbdf505-6dd4-4c71-a7bd-e7fe1d946842" />
+<img width="300" height="2400" alt="Screenshot_20260605_125124_Gallery" src="https://github.com/user-attachments/assets/fd7241f3-2d66-4274-a1ca-ac34294d5f40" />
+<img width="300" height="2400" alt="Screenshot_20260605_125101_Gallery" src="https://github.com/user-attachments/assets/a87b70bb-0720-41b8-b6d8-d2c0ccf240fd" />
+<img width="300" height="2400" alt="Screenshot_20260605_125034_Gallery" src="https://github.com/user-attachments/assets/506d549e-382e-42ee-9b08-0d88ba52a747" />
+<img width="300" height="2400" alt="Screenshot_20260605_125005_Gallery" src="https://github.com/user-attachments/assets/7c232ea7-1abf-4f20-8f98-c68bfa3f4fcc" />
+<img width="300" height="2400" alt="Screenshot_20260605_124933_Gallery" src="https://github.com/user-attachments/assets/a9b638e4-667c-4952-ab89-49e1af5f0618" />
+<img width="300" height="2400" alt="Screenshot_20260605_124913_Gallery" src="https://github.com/user-attachments/assets/293a7a81-a02c-4fab-b355-4d766daceb6d" />
+<img width="300" height="2400" alt="Screenshot_20260605_125224_Gallery" src="https://github.com/user-attachments/assets/0bacdafa-0edb-4368-80a0-9385f476f802" />
 
 
 ### Tableau de Bord Web (Gestion & Approbations)
