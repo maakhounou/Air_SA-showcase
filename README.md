@@ -14,8 +14,8 @@ L'application mobile native s'adapte dynamiquement selon le profil de l'utilisat
 
 <img width="300" height="350" alt="Screenshot_20260605_125150_Gallery" src="https://github.com/user-attachments/assets/4cbdf505-6dd4-4c71-a7bd-e7fe1d946842" />
 <img width="300" height="350" alt="Screenshot_20260605_125124_Gallery" src="https://github.com/user-attachments/assets/fd7241f3-2d66-4274-a1ca-ac34294d5f40" />
+<img width="300" height="350" alt="Screenshot_20260605_151117_Gallery" src="https://github.com/user-attachments/assets/4ae01206-7190-4347-a99a-edf0fa2185ff" />
 <img width="300" height="350" alt="Screenshot_20260605_125101_Gallery" src="https://github.com/user-attachments/assets/a87b70bb-0720-41b8-b6d8-d2c0ccf240fd" />
-<img width="300" height="350" alt="Screenshot_20260605_125034_Gallery" src="https://github.com/user-attachments/assets/506d549e-382e-42ee-9b08-0d88ba52a747" />
 <img width="300" height="350" alt="Screenshot_20260605_125005_Gallery" src="https://github.com/user-attachments/assets/7c232ea7-1abf-4f20-8f98-c68bfa3f4fcc" />
 <img width="300" height="350" alt="Screenshot_20260605_124933_Gallery" src="https://github.com/user-attachments/assets/a9b638e4-667c-4952-ab89-49e1af5f0618" />
 <img width="300" height="350" alt="Screenshot_20260605_124913_Gallery" src="https://github.com/user-attachments/assets/293a7a81-a02c-4fab-b355-4d766daceb6d" />
