@@ -24,18 +24,32 @@ L'application mobile native s'adapte dynamiquement selon le profil de l'utilisat
 
 ### Tableau de Bord Web (Gestion & Approbations)
 L'interface web permet aux gestionnaires de l'agence d'administrer globalement les demandes, d'intégrer les billets et de suivre les budgets de l'entreprise :
+* **Pour les Agents Staff Travel :** Gestion opérationnelle du ticketing. Dès qu'une demande est validée, l'agent Staff Travel accède au dossier pour importer et uploader le billet correspondant:
+  <img width="1568" height="796" alt="5" src="https://github.com/user-attachments/assets/f3e4b845-55ef-4d53-9da6-5069caa08314" />
+  <img width="1697" height="935" alt="6" src="https://github.com/user-attachments/assets/7b1ab5b8-09d7-4f3a-b1bb-a4637fffc260" />
+  <img width="1696" height="917" alt="1" src="https://github.com/user-attachments/assets/1028f6af-6dff-4e8c-8c12-dfeb6ae13d37" />
+  <img width="1692" height="912" alt="3" src="https://github.com/user-attachments/assets/657a2a0a-79bb-4e51-8e2e-ad277acdb30a" />
+  <img width="1687" height="613" alt="2" src="https://github.com/user-attachments/assets/084b48e5-8e39-49ea-8ae0-f3de6e104982" />
+  <img width="813" height="677" alt="4" src="https://github.com/user-attachments/assets/7aaaed0b-56a7-4392-9dce-e7133048ac4a" />
+
+
+
 
 
 ---
 
 ## 🛠️ Stack Technique & Architecture
 
-Le projet exploite la puissance de l'écosystème **.NET** pour offrir une expérience unifiée, hautement sécurisée et performante :
-
-*   **Back-end :** API REST robuste développée avec **.NET Core** pour la gestion des flux, de l'authentification (JWT/Rôles) et du stockage sécurisé des documents.
-*   **Front-end Web :** Interface d'administration dynamique conçue avec **Blazor**.
-*   **Application Mobile :** Application native multiplateforme (Android / iOS) développée avec **.NET MAUI**.
-
+Le projet **Air SA** illustre une architecture full-stack moderne et polyvalente,
+combinant la puissance de l'écosystème **.NET Core** pour le backend et le mobile
+avec la souplesse d'**Angular** pour le web :
+* **Back-end :** API REST robuste développée avec **.NET Core**, assurant la gestion
+des flux métier, l'authentification/autorisation sécurisée (JWT / Micro-services /
+Rôles) et le stockage de documents.
+* **Front-end Web :** Interface d'administration dynamique, réactive et scalable
+conçue avec **Angular 22** (TypeScript, Tailwind CSS, services REST).
+* **Application Mobile :** Application native multiplateforme (Android / iOS)
+développée avec **.NET MAUI** (XAML, MVVM, Firebase).
 ---
 
 ## ✨ Fonctionnalités Clés
@@ -45,3 +59,11 @@ Le projet exploite la puissance de l'écosystème **.NET** pour offrir une expé
 *   **Intégration d'API & Consommation de Données :** Système connecté à l'API Back-end pour l'envoi, le traitement et la récupération des données de vol en temps réel.
 *   **Upload & Téléchargement de Billets :** Génération ou téléversement du billet côté administration, permettant au salarié de voir instantanément les détails de son itinéraire sur son mobile et de télécharger son e-ticket.
 *   **Workflow de validation hiérarchique :** Circuit d'approbation automatisé permettant aux RH et aux Admins de valider ou rejeter les demandes directement depuis leur interface.
+
+## ~Tableau Récapitulatif des Stack Technologies (Badges GitHub)
+Pour un rendu visuel moderne au sommet de votre README, vous pouvez ajouter ces badges Shield.io :
+Couche Technologies & Frameworks
+Backend .NET Core / ASP.NET Web API, C#, Entity Framework Core, JWT
+Frontend Web Angular, TypeScript, Tailwind CSS, HTML5/CSS3
+Mobile .NET MAUI, XAML, C# (Architecture MVVM)
+DevOps & Tools Docker, Git, OpenAPI / Swagger, Azure DevOps
