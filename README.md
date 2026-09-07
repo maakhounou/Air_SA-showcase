@@ -63,7 +63,7 @@ développée avec **.NET MAUI** (XAML, MVVM, Firebase).
 ## ~Tableau Récapitulatif des Stack Technologies (Badges GitHub)
 Pour un rendu visuel moderne au sommet de votre README, vous pouvez ajouter ces badges Shield.io :
 Couche Technologies & Frameworks
-Backend .NET Core / ASP.NET Web API, C#, Entity Framework Core, JWT
-Frontend Web Angular, TypeScript, Tailwind CSS, HTML5/CSS3
-Mobile .NET MAUI, XAML, C# (Architecture MVVM)
-DevOps & Tools Docker, Git, OpenAPI / Swagger, Azure DevOps
+* Backend .NET Core / ASP.NET Web API, C#, Entity Framework Core, JWT
+* Frontend Web Angular, TypeScript, Tailwind CSS, HTML5/CSS3
+* Mobile .NET MAUI, XAML, C# (Architecture MVVM)
+* DevOps & Tools Docker, Git, OpenAPI / Swagger, Azure DevOps
