@@ -59,11 +59,15 @@ développée avec **.NET MAUI** (XAML, MVVM, Firebase).
 *   **Intégration d'API & Consommation de Données :** Système connecté à l'API Back-end pour l'envoi, le traitement et la récupération des données de vol en temps réel.
 *   **Upload & Téléchargement de Billets :** Génération ou téléversement du billet côté administration, permettant au salarié de voir instantanément les détails de son itinéraire sur son mobile et de télécharger son e-ticket.
 *   **Workflow de validation hiérarchique :** Circuit d'approbation automatisé permettant aux RH et aux Admins de valider ou rejeter les demandes directement depuis leur interface.
+*   **Application Mobile (.NET MAUI) :** Application native multiplateforme (Android / iOS) développée sous l'architecture MVVM. 
+* 🔔 **Notifications Push :** Avertit immédiatement l'utilisateur dès que sa demande change d'état ou lorsque le billet est disponible.
+* ✉️ **Notifications par E-mail :** Envoi automatique des confirmations et des billets électroniques directement dans la boîte mail du bénéficiaire.
+* 📄 **Consultation des Billets :** Téléchargement et accès hors-ligne aux documents importés par le pôle Staff Travel.
 
 ## ~Tableau Récapitulatif des Stack Technologies (Badges GitHub)
 Pour un rendu visuel moderne au sommet de votre README, vous pouvez ajouter ces badges Shield.io :
 Couche Technologies & Frameworks
-* Backend .NET Core / ASP.NET Web API, C#, Entity Framework Core, JWT
-* Frontend Web Angular, TypeScript, Tailwind CSS, HTML5/CSS3
-* Mobile .NET MAUI, XAML, C# (Architecture MVVM)
-* DevOps & Tools Docker, Git, OpenAPI / Swagger, Azure DevOps
+* Backend	.NET Core / ASP.NET Web API, EF Core, JWT	API REST, gestion des flux, stockage sécurisé, Services d'envoi d'e-mails (SMTP/MailKit)
+* Frontend Web	Angular 22, TypeScript, Tailwind CSS, HTML5/CSS3	Administration, suivi budgétaire, espace Staff Travel (upload de billets)
+* Mobile	.NET MAUI, XAML, C# (MVVM)	Notifications Push, réception/consultation des billets, interface réactive
+* DevOps & Tools	Docker, Git, OpenAPI / Swagger, Azure DevOps	CI/CD, conteneurisation, documentation API
